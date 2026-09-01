@@ -7,7 +7,7 @@ I'm a software developer based in Brazil, currently an undergraduate student at 
 ### 🚀 Status & Current Focus
 - 🔭 I’m currently working on **Wolfy**, my undergraduate capstone project (TCC), developing a robust full-stack architecture.
 - 💼 Actively looking for **internships** and **freelance projects** (API integrations, web development, and custom solutions).
-- 📫 How to reach me: **[andreluizsantosreal@gmail.com]** | [LinkedIn](https://www.linkedin.com/in/andre-luiz-arnaud-dos-santos-13996826b/)
+- 📫 How to reach me: **[andreluizsantosreal@gmail.com]** | [LinkedIn](https://linkedin.com/in/[andre-luiz-arnaud-dos-santos-13996826b])
 
 ### 🎮 Tools and Technologies
 <div align="left">
