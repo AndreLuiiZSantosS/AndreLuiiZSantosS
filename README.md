@@ -11,10 +11,13 @@ I'm a software developer based in Brazil, currently an undergraduate student at 
 
 ### 🎮 Tools and Technologies
 
-![My Skills](https://skillicons.dev/icons?i=py,c,java,postgres,django,js,ts,react,vite,html,css)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=py,c,java,postgres,django,js,ts,react,vite,html,css" alt="My Skills" />
+</p>
 
 ### 📊 GitHub Stats
 
-![My GitHub stats](https://github-readme-stats.vercel.app/api?username=AndreLuiiZSantosS&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuiiZSantosS&layout=compact&theme=tokyonight)
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=AndreLuiiZSantosS&show_icons=true&theme=tokyonight" alt="My GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndreLuiiZSantosS&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
